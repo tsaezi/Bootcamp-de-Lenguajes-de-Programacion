@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bootcamp Frontend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+078a5c8a6516b6fe60058af4cf586e84b82dfac8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bootcamp Frontend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bootcamp Frontend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
