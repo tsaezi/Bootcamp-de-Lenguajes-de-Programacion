@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\segel\\source\\repos\\Bootcamp Frontend\\Bootcamp Frontend\\Bootcamp Frontend.csproj": {}
+    "C:\\Users\\saezi\\source\\repos\\tsaezi\\Bootcamp-de-Lenguajes-de-Programacion\\Bootcamp-Frontend\\Bootcamp Frontend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\segel\\source\\repos\\Bootcamp Frontend\\Bootcamp Frontend\\Bootcamp Frontend.csproj": {
+    "C:\\Users\\saezi\\source\\repos\\tsaezi\\Bootcamp-de-Lenguajes-de-Programacion\\Bootcamp-Frontend\\Bootcamp Frontend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\segel\\source\\repos\\Bootcamp Frontend\\Bootcamp Frontend\\Bootcamp Frontend.csproj",
+        "projectUniqueName": "C:\\Users\\saezi\\source\\repos\\tsaezi\\Bootcamp-de-Lenguajes-de-Programacion\\Bootcamp-Frontend\\Bootcamp Frontend.csproj",
         "projectName": "Bootcamp Frontend",
-        "projectPath": "C:\\Users\\segel\\source\\repos\\Bootcamp Frontend\\Bootcamp Frontend\\Bootcamp Frontend.csproj",
-        "packagesPath": "C:\\Users\\segel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\segel\\source\\repos\\Bootcamp Frontend\\Bootcamp Frontend\\obj\\",
+        "projectPath": "C:\\Users\\saezi\\source\\repos\\tsaezi\\Bootcamp-de-Lenguajes-de-Programacion\\Bootcamp-Frontend\\Bootcamp Frontend.csproj",
+        "packagesPath": "C:\\Users\\saezi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saezi\\source\\repos\\tsaezi\\Bootcamp-de-Lenguajes-de-Programacion\\Bootcamp-Frontend\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\segel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\saezi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
